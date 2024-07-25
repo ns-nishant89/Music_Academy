@@ -1,6 +1,6 @@
 import React from "react";
 import { cn } from "@/utils/utils";
-
+ 
 type SpotlightProps = {
   className?: string;
   fill?: string;
